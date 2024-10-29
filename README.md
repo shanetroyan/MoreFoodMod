@@ -1,0 +1,1 @@
+Compiled with Gradle with the usage of MCreator. This mod adds Oranges (Orange Juice), Cherries, Tomatoes, Cucumbers, Raspberries, Blueberries, and Strawberries to the game. It is currently under development and the sprites may change as progress continues. Thank you for checking out this mod, I hope yu enjoy it. 
