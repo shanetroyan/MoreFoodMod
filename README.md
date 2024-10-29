@@ -1,9 +1,15 @@
+
+Name: MoreFood Mod 
+Author: Shane Troyan
+
+
+
 Version History
-2.0
+2.0 (10/29/24)
 Added Beer, Cheese, Onions, Ham, and Lemonade to the mod.
 Updated Strawberry Texture
 --------------------------------------------------------
-1.0
+1.0 (10/27/24)
 Created base mod package
 Created sprite textures for new plants
 Entities created (Plants - Raspberries, Blueberries, and Cucumbers)
