@@ -1,10 +1,10 @@
 
-Name: MoreFood Mod 
+Mod Name: MoreFoodMod 
 Author: Shane Troyan
 
 
 
-Version History
+Version History and Changelog
 ---------------------
 v3.0
 
