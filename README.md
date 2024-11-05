@@ -6,7 +6,7 @@ Author: Shane Troyan
 
 Version History and Changelog
 ---------------------
-v3.0 (11/4/2024
+v3.0 (11/4/2024)
 
 - Added Crafting and Smelting Recipes for Beer, Dough, Flour, Tomato Sauce, Pizza, Cherry and Apple Pie, Orange Juice
 
