@@ -5,15 +5,16 @@ Author: Shane Troyan
 
 
 Version History
-3.0
+v3.0
 
 - Added Crafting and Smelting Recipes for Beer, Dough, Flour, Tomato Sauce, Pizza, Cherry and Apple Pie, Orange Juice
-2.0 (10/29/24)
+
+v2.0 (10/29/24)
 
 - Added Beer, Cheese, Onions, Ham, and Lemonade to the mod.
 - Updated Strawberry Texture
 
-1.0 (10/27/24)
+v1.0 (10/27/24)
 - Created base mod package
 - Created sprite textures for new plants
 - Plants created (Plants - Raspberries, Blueberries, and Cucumbers)
