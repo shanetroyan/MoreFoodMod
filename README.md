@@ -12,7 +12,7 @@ v3.0 (11/4/2024)
 
 v2.0 (10/29/2024)
 
-- Added Beer, Cheese, Onions, Ham, and Lemonade to the mod.
+- Added Cheese, Onions, Ham, and Lemonade to the mod.
 - Updated Strawberry Texture
 
 v1.0 (10/27/2024)
